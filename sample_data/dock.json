@@ -1,0 +1,39 @@
+{
+  "pickupStoreInfo": {
+    "isPickupStore": false,
+    "storeId": null,
+    "friendlyName": null,
+    "address": null,
+    "additionalInfo": null,
+    "dockId": null,
+    "distance": null,
+    "businessHours": null,
+    "pickupHolidays": null,
+    "sellerId": null,
+    "isThirdPartyPickup": false
+  },
+  "storeId": null,
+  "pickupInStoreInfo": {
+    "isActice": false,
+    "additionalInfo": null
+  },
+  "deliveryFromStoreInfo": {
+    "isActice": false,
+    "deliveryRadius": 0,
+    "deliveryFee": 0,
+    "deliveryTime": "00:00:00",
+    "maximumWeight": 0
+  },
+  "address": null,
+  "location": null,
+  "shippingRatesProviders": [],
+  "id": "VCLIN_DSPBaraoDeLimeira_SaoPaulo_SP",
+  "name": "VCLIN DSP Barão de Limeira",
+  "priority": 0,
+  "dockTimeFake": "2.00:00:00",
+  "timeFakeOverhead": "00:00:00",
+  "salesChannels": ["1"],
+  "freightTableIds": ["VCLIN_DSPBaraoDeLimeira_SaoPaulo_SP"],
+  "wmsEndPoint": "",
+  "isActive": true
+}
