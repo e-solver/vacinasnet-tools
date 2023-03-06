@@ -1,0 +1,1388 @@
+{
+  "id": "VCLIN_DSPBaraoDeLimeira_SaoPaulo_SP",
+  "name": "VCLIN DSP Barão de Limeira",
+  "shippingMethod": "Drogaria São Paulo - Barão de Limeira",
+  "weekendAndHolidays": {
+    "saturday": true,
+    "sunday": true,
+    "holiday": false
+  },
+  "maxDimension": {
+    "largestMeasure": 0,
+    "maxMeasureSum": 0
+  },
+  "numberOfItemsPerShipment": 1,
+  "minimumValueAceptable": 0,
+  "maximumValueAceptable": 0,
+  "additionalTime": "00:00:00",
+  "additionalPrice": {
+    "method": 0,
+    "value": 0
+  },
+  "deliveryScheduleSettings": {
+    "useDeliverySchedule": true,
+    "dayOfWeekForDelivery": [
+      {
+        "dayOfWeek": 6,
+        "deliveryRanges": [
+          {
+            "startTime": "07:00:00",
+            "endTime": "08:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "08:00:00",
+            "endTime": "09:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "09:00:00",
+            "endTime": "10:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "10:00:00",
+            "endTime": "11:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "11:00:00",
+            "endTime": "12:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "12:00:00",
+            "endTime": "13:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "13:00:00",
+            "endTime": "14:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "14:00:00",
+            "endTime": "15:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "15:00:00",
+            "endTime": "16:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "16:00:00",
+            "endTime": "17:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "17:00:00",
+            "endTime": "18:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "18:00:00",
+            "endTime": "19:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "19:00:00",
+            "endTime": "20:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "20:00:00",
+            "endTime": "21:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "21:00:00",
+            "endTime": "22:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "22:00:00",
+            "endTime": "23:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "dayOfWeek": 1,
+        "deliveryRanges": [
+          {
+            "startTime": "07:00:00",
+            "endTime": "08:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "08:00:00",
+            "endTime": "09:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "09:00:00",
+            "endTime": "10:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "10:00:00",
+            "endTime": "11:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "11:00:00",
+            "endTime": "12:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "12:00:00",
+            "endTime": "13:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "13:00:00",
+            "endTime": "14:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "14:00:00",
+            "endTime": "15:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "15:00:00",
+            "endTime": "16:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "16:00:00",
+            "endTime": "17:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "17:00:00",
+            "endTime": "18:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "18:00:00",
+            "endTime": "19:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "19:00:00",
+            "endTime": "20:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "20:00:00",
+            "endTime": "21:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "21:00:00",
+            "endTime": "22:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "22:00:00",
+            "endTime": "23:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "dayOfWeek": 2,
+        "deliveryRanges": [
+          {
+            "startTime": "07:00:00",
+            "endTime": "08:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "08:00:00",
+            "endTime": "09:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "09:00:00",
+            "endTime": "10:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "10:00:00",
+            "endTime": "11:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "11:00:00",
+            "endTime": "12:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "12:00:00",
+            "endTime": "13:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "13:00:00",
+            "endTime": "14:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "14:00:00",
+            "endTime": "15:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "15:00:00",
+            "endTime": "16:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "16:00:00",
+            "endTime": "17:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "17:00:00",
+            "endTime": "18:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "18:00:00",
+            "endTime": "19:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "19:00:00",
+            "endTime": "20:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "20:00:00",
+            "endTime": "21:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "21:00:00",
+            "endTime": "22:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "22:00:00",
+            "endTime": "23:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "dayOfWeek": 3,
+        "deliveryRanges": [
+          {
+            "startTime": "07:00:00",
+            "endTime": "08:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "08:00:00",
+            "endTime": "09:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "09:00:00",
+            "endTime": "10:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "10:00:00",
+            "endTime": "11:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "11:00:00",
+            "endTime": "12:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "12:00:00",
+            "endTime": "13:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "13:00:00",
+            "endTime": "14:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "14:00:00",
+            "endTime": "15:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "15:00:00",
+            "endTime": "16:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "16:00:00",
+            "endTime": "17:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "17:00:00",
+            "endTime": "18:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "18:00:00",
+            "endTime": "19:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "19:00:00",
+            "endTime": "20:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "20:00:00",
+            "endTime": "21:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "21:00:00",
+            "endTime": "22:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "22:00:00",
+            "endTime": "23:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "dayOfWeek": 4,
+        "deliveryRanges": [
+          {
+            "startTime": "07:00:00",
+            "endTime": "08:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "08:00:00",
+            "endTime": "09:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "09:00:00",
+            "endTime": "10:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "10:00:00",
+            "endTime": "11:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "11:00:00",
+            "endTime": "12:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "12:00:00",
+            "endTime": "13:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "13:00:00",
+            "endTime": "14:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "14:00:00",
+            "endTime": "15:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "15:00:00",
+            "endTime": "16:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "16:00:00",
+            "endTime": "17:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "17:00:00",
+            "endTime": "18:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "18:00:00",
+            "endTime": "19:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "19:00:00",
+            "endTime": "20:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "20:00:00",
+            "endTime": "21:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "21:00:00",
+            "endTime": "22:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "22:00:00",
+            "endTime": "23:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "dayOfWeek": 5,
+        "deliveryRanges": [
+          {
+            "startTime": "07:00:00",
+            "endTime": "08:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "08:00:00",
+            "endTime": "09:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "09:00:00",
+            "endTime": "10:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "10:00:00",
+            "endTime": "11:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "11:00:00",
+            "endTime": "12:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "12:00:00",
+            "endTime": "13:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "13:00:00",
+            "endTime": "14:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "14:00:00",
+            "endTime": "15:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "15:00:00",
+            "endTime": "16:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "16:00:00",
+            "endTime": "17:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "17:00:00",
+            "endTime": "18:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "18:00:00",
+            "endTime": "19:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "19:00:00",
+            "endTime": "20:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "20:00:00",
+            "endTime": "21:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "21:00:00",
+            "endTime": "22:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "22:00:00",
+            "endTime": "23:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "dayOfWeek": 0,
+        "deliveryRanges": [
+          {
+            "startTime": "07:00:00",
+            "endTime": "08:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "08:00:00",
+            "endTime": "09:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "09:00:00",
+            "endTime": "10:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "10:00:00",
+            "endTime": "11:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "11:00:00",
+            "endTime": "12:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "12:00:00",
+            "endTime": "13:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "13:00:00",
+            "endTime": "14:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "14:00:00",
+            "endTime": "15:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "15:00:00",
+            "endTime": "16:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "16:00:00",
+            "endTime": "17:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "17:00:00",
+            "endTime": "18:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "18:00:00",
+            "endTime": "19:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "19:00:00",
+            "endTime": "20:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "20:00:00",
+            "endTime": "21:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          },
+          {
+            "startTime": "21:00:00",
+            "endTime": "22:00:59",
+            "listPrice": 0,
+            "deliveryCapacity": [
+              {
+                "capacityType": "ORDERS_QUANTITY",
+                "maxValue": 4
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "maxRangeDelivery": 60,
+    "dayOfWeekBlockeds": []
+  },
+  "carrierSchedule": [],
+  "cubicWeightSettings": {
+    "volumetricFactor": 0,
+    "minimunAcceptableVolumetricWeight": 0
+  },
+  "modalSettings": {
+    "modals": [],
+    "useOnlyItemsWithDefinedModal": false
+  },
+  "businessHourSettings": {
+    "carrierBusinessHours": [
+      {
+        "dayOfWeek": 1,
+        "openingTime": "00:00:00",
+        "closingTime": "23:59:59"
+      },
+      {
+        "dayOfWeek": 2,
+        "openingTime": "00:00:00",
+        "closingTime": "23:59:59"
+      },
+      {
+        "dayOfWeek": 3,
+        "openingTime": "00:00:00",
+        "closingTime": "23:59:59"
+      },
+      {
+        "dayOfWeek": 4,
+        "openingTime": "00:00:00",
+        "closingTime": "23:59:59"
+      },
+      {
+        "dayOfWeek": 5,
+        "openingTime": "00:00:00",
+        "closingTime": "23:59:59"
+      },
+      {
+        "dayOfWeek": 6,
+        "openingTime": "00:00:00",
+        "closingTime": "23:59:59"
+      },
+      {
+        "dayOfWeek": 0,
+        "openingTime": "00:00:00",
+        "closingTime": "23:59:59"
+      }
+    ],
+    "isOpenOutsideBusinessHours": true
+  },
+  "pickupPointsSettings": {
+    "pickupPointIds": ["DSPBaraoDeLimeira_SaoPaulo_SP"],
+    "pickupPointTags": [],
+    "sellers": []
+  },
+  "processingStatus": {
+    "status": 1,
+    "errorMessage": null,
+    "errorsMetadata": null
+  },
+  "deliveryChannel": "pickup-in-point",
+  "calculationType": 0,
+  "isActive": true,
+  "lastIndexedAt": null,
+  "shippingHoursSettings": {
+    "shippingHours": [
+      {
+        "dayOfWeek": 1,
+        "openingTime": "00:00:00",
+        "closingTime": "23:59:59"
+      },
+      {
+        "dayOfWeek": 2,
+        "openingTime": "00:00:00",
+        "closingTime": "23:59:59"
+      },
+      {
+        "dayOfWeek": 3,
+        "openingTime": "00:00:00",
+        "closingTime": "23:59:59"
+      },
+      {
+        "dayOfWeek": 4,
+        "openingTime": "00:00:00",
+        "closingTime": "23:59:59"
+      },
+      {
+        "dayOfWeek": 5,
+        "openingTime": "00:00:00",
+        "closingTime": "23:59:59"
+      },
+      {
+        "dayOfWeek": 6,
+        "openingTime": "00:00:00",
+        "closingTime": "23:59:59"
+      },
+      {
+        "dayOfWeek": 0,
+        "openingTime": "00:00:00",
+        "closingTime": "23:59:59"
+      }
+    ],
+    "acceptOrdersOutsideShippingHours": true
+  }
+}
