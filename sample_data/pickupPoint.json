@@ -1,0 +1,63 @@
+{
+  "id": "DSPBaraoDeLimeira_SaoPaulo_SP",
+  "name": "Drogaria São Paulo - Barao De Limeira",
+  "description": "61412110105259",
+  "instructions": "Para efetuar a vacinação na clínica, apresente na recepção o e-mail de confirmação do pagamento.",
+  "formatted_address": "",
+  "address": {
+    "postalCode": "1202000",
+    "country": {
+      "acronym": "BRA",
+      "name": "Brasil"
+    },
+    "city": "SAO PAULO",
+    "state": "SP",
+    "neighborhood": "CAMPOS ELISEOS",
+    "street": "AL BARAO DE LIMEIRA",
+    "number": "668",
+    "complement": "",
+    "reference": "",
+    "location": {
+      "latitude": -23.5352422,
+      "longitude": -46.6468002
+    }
+  },
+  "isActive": true,
+  "distance": 0,
+  "seller": null,
+  "_sort": null,
+  "businessHours": [
+    {
+      "dayOfWeek": 1,
+      "openingTime": "09:00:00",
+      "closingTime": "18:00:00"
+    },
+    {
+      "dayOfWeek": 2,
+      "openingTime": "09:00:00",
+      "closingTime": "18:00:00"
+    },
+    {
+      "dayOfWeek": 3,
+      "openingTime": "09:00:00",
+      "closingTime": "18:00:00"
+    },
+    {
+      "dayOfWeek": 4,
+      "openingTime": "09:00:00",
+      "closingTime": "18:00:00"
+    },
+    {
+      "dayOfWeek": 5,
+      "openingTime": "09:00:00",
+      "closingTime": "18:00:00"
+    }
+  ],
+  "tagsLabel": [],
+  "pickupHolidays": [],
+  "isThirdPartyPickup": false,
+  "accountOwnerName": "vacinasnet",
+  "accountOwnerId": "0032240b-48a7-4ba7-af12-f9e1cff2cb36",
+  "parentAccountName": "vacinasnet",
+  "originalId": "DSPBaraoDeLimeira_SaoPaulo_SP"
+}
