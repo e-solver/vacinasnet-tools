@@ -1,0 +1,6 @@
+{
+  "name": "Porto teste",
+  "email": "testeportola@yopmail.com",
+  "roles": ["clinic_admin"],
+  "relatedClinics": [{ "_id": "623345ffe81a5f156e8ecaaf" }]
+}
