@@ -1,0 +1,162 @@
+[
+  {
+    "name": "mdv1",
+    "schema": {
+      "properties": {
+        "city": {
+          "type": "string",
+          "maxLength": 50,
+          "title": "City"
+        },
+        "tags": {
+          "type": "string",
+          "title": "Tags"
+        },
+        "updatedIn": {
+          "type": "string",
+          "format": "date-time",
+          "title": "Atualizado em"
+        },
+        "ecommerceSellerId": {
+          "type": "string",
+          "maxLength": 50,
+          "title": "ecommerce Seller ID"
+        },
+        "longitude": {
+          "type": "string",
+          "maxLength": 100,
+          "title": "Longitude"
+        },
+        "followers": {
+          "type": "string",
+          "title": "Seguidores"
+        },
+        "createdIn": {
+          "type": "string",
+          "format": "date-time",
+          "title": "Criado em"
+        },
+        "accountId": {
+          "type": "string",
+          "maxLength": 50,
+          "title": "ID da loja"
+        },
+        "phone": {
+          "type": "string",
+          "maxLength": 50,
+          "title": "Phone"
+        },
+        "state": {
+          "type": "string",
+          "maxLength": 50,
+          "title": "State"
+        },
+        "lastInteractionIn": {
+          "type": "string",
+          "format": "date-time",
+          "title": "Ultima interação em"
+        },
+        "complement": {
+          "type": "string",
+          "maxLength": 100,
+          "title": "Complement"
+        },
+        "storeSellerId": {
+          "type": "string",
+          "maxLength": 50,
+          "title": "Store Seller ID"
+        },
+        "neighborhood": {
+          "type": "string",
+          "maxLength": 50,
+          "title": "Neighborhood"
+        },
+        "imgloja": {
+          "type": "string",
+          "title": "imgloja"
+        },
+        "accountName": {
+          "type": "string",
+          "maxLength": 100,
+          "title": "Nome da loja"
+        },
+        "latitude": {
+          "type": "string",
+          "maxLength": 100,
+          "title": "Latitude"
+        },
+        "auto_filter": {
+          "type": "string",
+          "title": "Filtro autoático"
+        },
+        "number": {
+          "type": "string",
+          "maxLength": 10,
+          "title": "Number"
+        },
+        "dataEntityId": {
+          "type": "string",
+          "maxLength": 10,
+          "title": "Entidade de dados"
+        },
+        "id": {
+          "type": "string",
+          "maxLength": 100,
+          "title": "Id do documento"
+        },
+        "country": {
+          "type": "string",
+          "maxLength": 50,
+          "title": "Country"
+        },
+        "tradePolicy": {
+          "type": "string",
+          "maxLength": 50,
+          "title": "Trade Policy"
+        },
+        "name": {
+          "type": "string",
+          "maxLength": 100,
+          "title": "Name"
+        },
+        "address": {
+          "type": "string",
+          "maxLength": 100,
+          "title": "Address"
+        },
+        "postalCode": {
+          "type": "string",
+          "maxLength": 50,
+          "title": "Postal Code"
+        }
+      },
+      "required": ["id", "accountId", "accountName", "dataEntityId"],
+      "v-indexed": [
+        "address",
+        "city",
+        "complement",
+        "country",
+        "ecommerceSellerId",
+        "latitude",
+        "longitude",
+        "name",
+        "neighborhood",
+        "number",
+        "postalCode",
+        "state",
+        "tradePolicy",
+        "id",
+        "accountName",
+        "dataEntityId",
+        "createdBy",
+        "createdIn",
+        "updatedBy",
+        "updatedIn",
+        "lastInteractionBy",
+        "lastInteractionIn",
+        "followers",
+        "tags"
+      ]
+    }
+  }
+]

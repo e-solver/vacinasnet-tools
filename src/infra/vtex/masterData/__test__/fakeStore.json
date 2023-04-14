@@ -1,0 +1,14 @@
+{
+  "name": "Teste API",
+  "city": "Santos",
+  "longitude": "123",
+  "latitude": "123",
+  "state": "SP",
+  "complement": "",
+  "neighborhood": "Boqueirão",
+  "imgloja": "https://vacinasnet.vteximg.com.br/arquivos/Favicon-1807.png?v=637937630640970000",
+  "address": "Rua qualquer test",
+  "country": "Brasil",
+  "postalCode": "02246-010",
+  "number": "123"
+}
