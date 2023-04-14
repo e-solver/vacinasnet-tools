@@ -1,0 +1,16 @@
+[
+  {
+    "absoluteMoneyCost": "1.00",
+    "country": "BRA",
+    "maxVolume": 1000000000,
+    "operationType": 1,
+    "pricePercent": 10,
+    "pricePercentByWeight": 0,
+    "timeCost": "2.00:00:00",
+    "weightEnd": 1000,
+    "weightStart": 1,
+    "zipCodeEnd": "1234500",
+    "zipCodeStart": "1000000",
+    "polygon": "polygon2"
+  }
+]
