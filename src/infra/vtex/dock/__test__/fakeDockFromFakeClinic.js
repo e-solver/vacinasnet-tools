@@ -1,0 +1,25 @@
+module.exports = fakeDockFromFakeClinic = {
+  id: "VCLIN_ClinicaDeTeste_Santos_SP",
+  name: "VCLIN Clínica de teste",
+  priority: 0,
+  dockTimeFake: "2.00:00:00",
+  timeFakeOverhead: "00:00:00",
+  salesChannels: ["1"],
+  salesChannel: null,
+  freightTableIds: ["VCLIN_ClinicaDeTeste_Santos_SP"],
+  wmsEndPoint: "",
+  address: {
+    postalCode: "12345678",
+    country: {
+      acronym: "BRA",
+      name: "Brazil",
+    },
+    city: "Santos",
+    state: "SP",
+    neighborhood: "Embaré",
+    street: "Rua Torres Homem",
+    number: "123",
+    complement: "",
+    coordinates: [[-23.961992, -46.31853]],
+  },
+};
