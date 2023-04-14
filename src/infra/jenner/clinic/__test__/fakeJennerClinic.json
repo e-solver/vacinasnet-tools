@@ -1,0 +1,40 @@
+{
+  "cnpj": "12222222222222",
+  "companyName": "Teste de clínica",
+  "name": "Teste de clínica",
+  "address": {
+    "city": "Santos",
+    "state": "SP",
+    "zipCode": "11025051",
+    "neighborhood": "Boqueirão",
+    "streetName": "Torres Homem",
+    "streetNumber": "420",
+    "complement": "clínica totalmente fake"
+  },
+  "phone": "13123123123",
+  "website": "https://clinicafakedemais.com.br",
+  "managerData": {
+    "name": "Porto",
+    "responsibility": "Gestor",
+    "phone": "13313131313",
+    "email": "porto@vacinas.net"
+  },
+  "financialGroupData": {
+    "name": "Porto",
+    "responsibility": "Gestor",
+    "phone": "13313131313",
+    "email": "porto@vacinas.net",
+    "bankAccount": {
+      "bankName": "Pelado",
+      "account": "1231231",
+      "agency": "123"
+    }
+  },
+  "externalData": {
+    "vtex": {
+      "warehouseId": "Est_Caracaxa_SaoPaulo_SP",
+      "slasIds": ["Clínica Caracaxá"]
+    }
+  },
+  "clinicGroup": { "_id": "623345e5e81a5f156e8eca9e" }
+}
