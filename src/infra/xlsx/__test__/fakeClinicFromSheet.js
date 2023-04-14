@@ -1,0 +1,71 @@
+module.exports = fakeClinicFromSheet = {
+  name: "Test Clinic",
+  cnpj: "12312312312312",
+  thumbnail: "https://drogariasp.vteximg.com.br/arquivos/favicon.ico",
+  companyName: "Test Clinic",
+  clinicGroupName: "Test",
+  address: {
+    postalCode: "70296-540",
+    street: "Q 413 BLOCO D",
+    number: "S/N LJ 16 E 22",
+    complement: "",
+    reference: "",
+    neighborhood: "ASA SUL",
+    city: "BRASILIA",
+    state: "DF",
+    latitude: -15.8311938,
+    longitude: -47.9114672,
+  },
+  phone: "22222222222",
+  website: "www.drogariasaopaulo.com.br",
+  businessHours: [
+    {
+      dayOfWeek: 1,
+      activeTime: ["09:00:00", "18:00:00"],
+      breakTime: ["12:00:00", "13:00:00"],
+    },
+    {
+      dayOfWeek: 2,
+      activeTime: ["09:00:00", "18:00:00"],
+      breakTime: ["12:00:00", "13:00:00"],
+    },
+    {
+      dayOfWeek: 3,
+      activeTime: ["09:00:00", "18:00:00"],
+      breakTime: ["12:00:00", "13:00:00"],
+    },
+    {
+      dayOfWeek: 4,
+      activeTime: ["09:00:00", "18:00:00"],
+      breakTime: ["12:00:00", "13:00:00"],
+    },
+    {
+      dayOfWeek: 5,
+      activeTime: ["09:00:00", "18:00:00"],
+      breakTime: ["12:00:00", "13:00:00"],
+    },
+    {
+      dayOfWeek: 6,
+      activeTime: ["09:00:00", "18:00:00"],
+    },
+    {
+      dayOfWeek: 0,
+      activeTime: ["09:00:00", "18:00:00"],
+    },
+  ],
+  managerData: {
+    name: "manager",
+    role: "GESTOR VACINAS",
+    phone: "22222222222",
+    email: "teste@teste.com",
+  },
+  financialData: {
+    name: "manager",
+    role: "GESTOR VACINAS",
+    phone: "22222222222",
+    email: "teste@teste.com",
+    bankName: "",
+    agency: "",
+    account: "",
+  },
+};
