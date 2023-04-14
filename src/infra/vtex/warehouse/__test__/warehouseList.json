@@ -1,0 +1,26 @@
+[
+  {
+    "id": "Diversos",
+    "name": "Diversos",
+    "warehouseDocks": [],
+    "pickupPointIds": [],
+    "priority": 0,
+    "isActive": false
+  },
+  {
+    "id": "Est_027_Clinica1",
+    "name": "Est_027_Clinica1",
+    "warehouseDocks": [],
+    "pickupPointIds": [],
+    "priority": 0,
+    "isActive": false
+  },
+  {
+    "id": "Est_029_Clinica2",
+    "name": "Est_029_Clinica2",
+    "warehouseDocks": [],
+    "pickupPointIds": [],
+    "priority": 0,
+    "isActive": false
+  }
+]

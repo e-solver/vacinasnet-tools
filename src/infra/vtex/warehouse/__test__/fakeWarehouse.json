@@ -1,0 +1,14 @@
+{
+  "id": "15bfc76",
+  "name": "Estoque Principal",
+  "warehouseDocks": [
+    {
+      "dockId": "1a8bce3",
+      "name": "Centro de Distribuição Principal",
+      "time": "3.00:00:00",
+      "cost": "5.00",
+      "translateDays": "dias",
+      "costToDisplay": "5,00"
+    }
+  ]
+}
