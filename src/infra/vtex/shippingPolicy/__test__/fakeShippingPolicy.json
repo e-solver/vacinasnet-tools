@@ -1,0 +1,68 @@
+{
+  "id": "123",
+  "name": "Normal",
+  "shippingMethod": "Normal",
+  "weekendAndHolidays": {
+    "saturday": false,
+    "sunday": false,
+    "holiday": false
+  },
+  "maxDimension": {
+    "largestMeasure": 15,
+    "maxMeasureSum": 25
+  },
+  "numberOfItemsPerShipment": 5,
+  "minimumValueAceptable": 0,
+  "maximumValueAceptable": 0,
+  "deliveryScheduleSettings": {
+    "useDeliverySchedule": true,
+    "dayOfWeekForDelivery": [
+      {
+        "dayOfWeek": 2,
+        "deliveryRanges": [
+          {
+            "startTime": "08:00:00",
+            "endTime": "12:00:00",
+            "listPrice": 5
+          },
+          {
+            "startTime": "12:01:00",
+            "endTime": "18:00:00",
+            "listPrice": 10
+          }
+        ]
+      }
+    ],
+    "maxRangeDelivery": 5
+  },
+  "carrierSchedule": [
+    {
+      "dayOfWeek": 0,
+      "timeLimit": "time_limit"
+    }
+  ],
+  "cubicWeightSettings": {
+    "volumetricFactor": 3,
+    "minimunAcceptableVolumetricWeight": 5
+  },
+  "modalSettings": {
+    "modals": ["Modal1"],
+    "useOnlyItemsWithDefinedModal": false
+  },
+  "businessHourSettings": {
+    "carrierBusinessHours": [
+      {
+        "dayOfWeek": 0,
+        "openingTime": "09:00:00",
+        "closingTime": "18:59:59"
+      }
+    ],
+    "isOpenOutsideBusinessHours": true
+  },
+  "pickupPointsSettings": {
+    "pickupPointIds": ["null"],
+    "pickupPointTags": ["null"],
+    "sellers": ["cosmetics2"]
+  },
+  "isActive": false
+}
