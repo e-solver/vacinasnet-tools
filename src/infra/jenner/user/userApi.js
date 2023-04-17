@@ -56,13 +56,3 @@ const handleUser = async (newUserInfo) => {
 };
 
 module.exports = { handleUser };
-
-(async () =>
-  console.log(
-    await handleUser({
-      name: "porto",
-      email: "porto.waste1@gmail.com",
-      roles: ["clinic_admin"],
-      relatedClinics: [{ _id: "641e2f455e44165c7e7a26a5" }],
-    })
-  ))();
