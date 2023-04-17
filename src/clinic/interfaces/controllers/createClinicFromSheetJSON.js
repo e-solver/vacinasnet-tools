@@ -89,7 +89,7 @@ module.exports = createClinicFromSheetJSON = (sheetInfo) => {
       role: sheetInfo["Financeiro – Cargo"],
       phone: removeSpecialChars(`${sheetInfo["Gerência – Telefone"]}`),
       email: sheetInfo["Financeiro – E-mail"],
-      bankName: sheetInfo["Banco"] || "",
+      bankName: `${sheetInfo["Banco"]}` || "",
       agency: `${sheetInfo["Agência"]}` || "",
       account: `${sheetInfo["Conta"]}` || "",
     },
