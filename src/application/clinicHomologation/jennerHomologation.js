@@ -27,4 +27,4 @@ const jennerHomologation = async (clinic, vtexInfo) => {
   });
 };
 
-export default jennerHomologation;
+module.exports = { jennerHomologation };

@@ -1,8 +1,10 @@
 // sample data
 const sheet = "sample_data/PlanilhaDeHomologacao.xlsx";
 
-const vtexHomologation = require("../clinicHomologation/");
-const jennerHomologation = require("../clinicHomologation/");
+const {
+  vtexHomologation,
+  jennerHomologation,
+} = require("../clinicHomologation/");
 
 const createClinicFromSheetJSON = require("../../clinic/interfaces/controllers/createClinicFromSheetJSON");
 

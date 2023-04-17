@@ -1,4 +1,4 @@
-const jennerHomologation = require("./jennerHomologation");
-const vtexHomologation = require("./vtexHomologation");
+const { jennerHomologation } = require("./jennerHomologation");
+const { vtexHomologation } = require("./vtexHomologation");
 
-export { vtexHomologation, jennerHomologation };
+module.exports = { vtexHomologation, jennerHomologation };

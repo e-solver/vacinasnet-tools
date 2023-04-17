@@ -45,4 +45,4 @@ const vtexHomologation = async (clinic) => {
   });
 };
 
-export default vtexHomologation;
+module.exports = { vtexHomologation };
