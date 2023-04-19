@@ -4,7 +4,7 @@ module.exports = makeWarehouse = (vtexId) => (clinicInfo) => {
 
   const id = vtexId({ name, city, state }, "warehouse");
   const dockId = vtexId({ name, city, state }, "vclin");
-  const warehouseName = `Estoque XXXX ${name}`;
+  const warehouseName = `Estoque XXXX ${name} - ${city}`;
 
   return Object.freeze({
     id,
